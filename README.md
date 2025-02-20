@@ -10,5 +10,5 @@ I'm a recent Computer Engineering graduate from the University of Granada 🎓, 
 ⚙️ Tech Skills
 - Languages: JavaScript,TypeScript, Python, C++, Java
 - Frontend: HTML, CSS, React, Vite.js, Tailwind, Bootstrap
-- Backend: Node.js, Express
+- Backend: Node.js, Express, Flask
 - DataBases: MySQL, MongoDB
